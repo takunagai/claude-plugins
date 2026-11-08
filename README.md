@@ -30,8 +30,6 @@ SSH 鍵を設定していない環境では、環境変数 `CLAUDE_CODE_PLUGIN_P
 | --- | --- | --- |
 | `screenshot-masker` | 公開前のスクリーンショットから機密情報を見つけてマスクする手順を、AI エージェントに教えるスキル | [takunagai/screenshot-masker](https://github.com/takunagai/screenshot-masker) |
 
-`screenshot-masker` は、ツールのリポジトリが非公開のあいだ、作者以外はインストールできません。
-
 各プラグインはツール本体を入れません。ツールの導入は各リポジトリの README に従ってください。
 
 ## 運用
