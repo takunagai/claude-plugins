@@ -1,0 +1,15 @@
+{
+  "name": "takunagai",
+  "description": "Taku Nagai が作ったツールを AI エージェントから使うための Claude Code プラグイン集",
+  "owner": {
+    "name": "Taku Nagai",
+    "url": "https://github.com/takunagai"
+  },
+  "plugins": [
+    {
+      "name": "screenshot-masker",
+      "source": { "source": "github", "repo": "takunagai/screenshot-masker" },
+      "description": "公開前のスクリーンショットから機密情報を見つけてマスクする手順を、AI エージェントに教えるスキル"
+    }
+  ]
+}
