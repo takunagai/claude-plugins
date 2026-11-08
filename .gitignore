@@ -1,0 +1,17 @@
+# 別セッション用の指示書（コミットしない運用）
+handover/
+
+# OS
+.DS_Store
+
+# エディタ
+.idea/
+.vscode/
+*.swp
+
+# ローカル専用
+.claude/settings.local.json
+CLAUDE.local.md
+.env
+.env.*
+*.log
